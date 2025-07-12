@@ -14,10 +14,23 @@ This repository contains:
 
 ## Ways to Access and Run
 
-### Option 1: Google Colab (Recommended)
+### Option 1: Google Colab (Much more Recommended)
+
+### Note - See my Explanation video at 
+
+#### Video Explanation
+**Link**: [Project Explanation Video](https://drive.google.com/file/d/1JXVL7Nqgsq2LokKDi5Y5udTMYGTCr0lt/view?usp=drive_link)
+
+Watch the complete project explanation and demonstration.
+
+### Note - Only Run the Evaluation and detection notebook as Training notebook just shows how i finetuned and trained the model 
 
 #### Training Notebook
 **Link**: [Training Notebook on Google Colab](https://colab.research.google.com/drive/1V9dAILT5cruINV5y4Fvfi5QuA4kjGM86?authuser=2)
+
+#### Evaluation & Detection Notebook
+**Link**: [Evaluation & Detection Notebook on Google Colab](https://colab.research.google.com/drive/1V9dAILT5cruINV5y4Fvfi5QuA4kjGM86?usp=sharing)
+
 
 **Steps**:
 1. Click the link above
@@ -25,14 +38,6 @@ This repository contains:
 3. Go through each cell and run them sequentially
 4. Follow the instructions in the notebook for data upload and model training
 
-#### Evaluation & Detection Notebook
-**Link**: [Evaluation & Detection Notebook on Google Colab](https://colab.research.google.com/drive/1V9dAILT5cruINV5y4Fvfi5QuA4kjGM86?usp=sharing)
-
-**Steps**:
-1. Click the link above
-2. Sign in to your Google account if prompted
-3. Run all cells in order
-4. Upload your trained model and test videos for evaluation
 
 ### Option 2: Google Drive Resources
 
@@ -48,11 +53,6 @@ Contains all project files including:
 **Link**: [My Custom Trained Model](https://drive.google.com/drive/folders/1Go5hnTki0gDKrSwWpW5fGZKgp3wfMiEC?usp=drive_link)
 
 Download the trained model file (`trained_best.pt`) for immediate use.
-
-#### Video Explanation
-**Link**: [Project Explanation Video](https://drive.google.com/file/d/1JXVL7Nqgsq2LokKDi5Y5udTMYGTCr0lt/view?usp=drive_link)
-
-Watch the complete project explanation and demonstration.
 
 #### Output Videos with Re-identification
 **Link**: [Output Videos with Re-identification](https://drive.google.com/drive/folders/1wpaMwGTSqUv8HWFhjAr8K0dX4q3i1pF3?usp=drive_link)
