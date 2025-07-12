@@ -1,4 +1,4 @@
-# Stealth_1
+# Computer Vision Object Detection Project
 
 A computer vision project focused on object detection and edge detection using YOLO models.
 
