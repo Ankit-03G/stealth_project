@@ -26,7 +26,7 @@ Watch the complete project explanation and demonstration.
 ### Note - Only Run the Evaluation and detection notebook as Training notebook just shows how i finetuned and trained the model 
 
 #### Training Notebook
-**Link**: [Training Notebook on Google Colab](https://colab.research.google.com/drive/1V9dAILT5cruINV5y4Fvfi5QuA4kjGM86?authuser=2)
+**Link**: [Training Notebook on Google Colab](https://colab.research.google.com/drive/1HXR9Qbgh3jcoFfsAfEQKb5k8_yRu1lxe?authuser=3#scrollTo=1AiJyRiX5Abz)
 
 #### Evaluation & Detection Notebook
 **Link**: [Evaluation & Detection Notebook on Google Colab](https://colab.research.google.com/drive/1V9dAILT5cruINV5y4Fvfi5QuA4kjGM86?usp=sharing)
